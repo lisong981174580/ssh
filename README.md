@@ -1,8 +1,6 @@
 # ssh
 ssh学习
-
 ### ssh-keygen生成git ssh密钥
-
 > https://blog.csdn.net/zhuwinmin/article/details/54913468
 
 ### ssh配置git clone简易流程
