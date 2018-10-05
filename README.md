@@ -47,7 +47,7 @@ ssh-keygen -t rsa -C "981174580@qq.com"
 
 3. 复制公钥
 
-复制id_rsa.pub中的内容到你的github指定位置
+复制id_rsa.pub中的内容到你的github指定位置(其他如服务器也一样)
 
 ```
 头像> Settings> SSH and GPG keys > New SSH key
